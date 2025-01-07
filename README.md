@@ -65,7 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nirobahmed0298/nirobahmed0298/output/snake.svg" alt="Snake animation" />
 
 ###
 
