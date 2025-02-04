@@ -15,6 +15,7 @@
 <h4 align="center">About me</h4>
 
 ###
+###
 
 <p align="left">I am a Front-End Developer with a keen eye for detail and a passion for creating seamless, interactive user experiences. My skills in HTML, CSS, and JavaScript, combined with proficiency in modern frameworks like React, allow me to build responsive and dynamic web applications. I’m dedicated to delivering pixel-perfect designs and writing clean, maintainable code to bring ideas to life. <br>Currently, I’m focused on mastering modern front-end frameworks like React, which allow me to bring dynamic, cutting-edge features to life. I love collaborating with designers and back-end developers to build complete, full-featured web applications that not only look great but also perform exceptionally well.</p>
 
