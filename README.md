@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">I code with 💻🧠</h2>
+<h2 align="center">I code with 💻🧠</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Contact 📞</h2>
+<h2 align="center">Contact 📞</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
