@@ -12,8 +12,6 @@
 
 ###
 
-###
-
 <h4 align="left">About me</h4>
 
 ###
