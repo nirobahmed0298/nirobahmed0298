@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">I am a Front-End Developer..👩‍💻</h2>
+<h2 align="left">I am a Front-End Developer.👩‍💻</h2>
 
 ###
 
