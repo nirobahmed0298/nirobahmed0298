@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">Hi!👋.I am Nirob Ahmed</h1>
+<h1 align="left">Hi!👋.I am Nirob Ahmed</h1>
 
 ###
 
-<h2 align="center">I am a Front-End Developer..👩‍💻</h2>
+<h2 align="left">I am a Front-End Developer..👩‍💻</h2>
 
 ###
 
@@ -16,11 +16,11 @@
 
 ###
 
-<p align="center">I am a Front-End Developer with a keen eye for detail and a passion for creating seamless, interactive user experiences. My skills in HTML, CSS, and JavaScript, combined with proficiency in modern frameworks like React, allow me to build responsive and dynamic web applications. I’m dedicated to delivering pixel-perfect designs and writing clean, maintainable code to bring ideas to life. <br>Currently, I’m focused on mastering modern front-end frameworks like React, which allow me to bring dynamic, cutting-edge features to life. I love collaborating with designers and back-end developers to build complete, full-featured web applications that not only look great but also perform exceptionally well.</p>
+<p align="left">I am a Front-End Developer with a keen eye for detail and a passion for creating seamless, interactive user experiences. My skills in HTML, CSS, and JavaScript, combined with proficiency in modern frameworks like React, allow me to build responsive and dynamic web applications. I’m dedicated to delivering pixel-perfect designs and writing clean, maintainable code to bring ideas to life. <br>Currently, I’m focused on mastering modern front-end frameworks like React, which allow me to bring dynamic, cutting-edge features to life. I love collaborating with designers and back-end developers to build complete, full-featured web applications that not only look great but also perform exceptionally well.</p>
 
 ###
 
-<p align="center">✨ Creating bugs since : 2023<br>📚 I'm currently learning : MongoDB,Express.js<br>🎯 Goals : I want to become a junior front-end developer by 2025<br>🎲 Fun fact : The first computer virus, "Creeper," displayed the message, "I’m the creeper: catch me if you can!"</p>
+<p align="left">✨ Creating bugs since : 2023<br>📚 I'm currently learning : MongoDB,Express.js<br>🎯 Goals : I want to become a junior front-end developer by 2025<br>🎲 Fun fact : I love video game</p>
 
 ###
 
@@ -43,8 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"/>
 
 ###
 
@@ -69,7 +68,7 @@
 
 ###
 
-<h2 align="center">Stats ◻️</h2>
+<h2 align="center">Stats</h2>
 
 ###
 
